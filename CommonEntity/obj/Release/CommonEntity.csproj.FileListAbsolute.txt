@@ -1,0 +1,26 @@
+D:\TFS Projects\Isolation Patient Food Management System\CommonEntity\bin\Release\CommonEntity.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\CommonEntity\bin\Release\CommonEntity.dll
+D:\TFS Projects\Isolation Patient Food Management System\CommonEntity\bin\Release\CommonEntity.pdb
+D:\TFS Projects\Isolation Patient Food Management System\CommonEntity\bin\Release\Encryption.dll
+D:\TFS Projects\Isolation Patient Food Management System\CommonEntity\obj\Release\CommonEntity.csprojAssemblyReference.cache
+D:\TFS Projects\Isolation Patient Food Management System\CommonEntity\obj\Release\CommonEntity.csproj.CoreCompileInputs.cache
+D:\TFS Projects\Isolation Patient Food Management System\CommonEntity\obj\Release\CommonEntity.csproj.CopyComplete
+D:\TFS Projects\Isolation Patient Food Management System\CommonEntity\obj\Release\CommonEntity.dll
+D:\TFS Projects\Isolation Patient Food Management System\CommonEntity\obj\Release\CommonEntity.pdb
+D:\Johar\Courier\CommonEntity\bin\Release\CommonEntity.dll.config
+D:\Johar\Courier\CommonEntity\bin\Release\CommonEntity.dll
+D:\Johar\Courier\CommonEntity\bin\Release\CommonEntity.pdb
+D:\Johar\Courier\CommonEntity\bin\Release\Encryption.dll
+D:\Johar\Courier\CommonEntity\obj\Release\CommonEntity.csprojAssemblyReference.cache
+D:\Johar\Courier\CommonEntity\obj\Release\CommonEntity.csproj.CoreCompileInputs.cache
+D:\Johar\Courier\CommonEntity\obj\Release\CommonEntity.csproj.CopyComplete
+D:\Johar\Courier\CommonEntity\obj\Release\CommonEntity.dll
+D:\Johar\Courier\CommonEntity\obj\Release\CommonEntity.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\CommonEntity\bin\Release\CommonEntity.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\CommonEntity\bin\Release\CommonEntity.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\CommonEntity\bin\Release\CommonEntity.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\CommonEntity\obj\Release\CommonEntity.csproj.AssemblyReference.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\CommonEntity\obj\Release\CommonEntity.csproj.CoreCompileInputs.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\CommonEntity\obj\Release\CommonEntity.csproj.CopyComplete
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\CommonEntity\obj\Release\CommonEntity.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\CommonEntity\obj\Release\CommonEntity.pdb

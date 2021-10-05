@@ -1,0 +1,18 @@
+OTP for register account in Shopperz India is {#var#}, J B Enterprise 
+1207162503338203706
+
+Hi {#var#}, this is shopperz india! Your order {#var#} has been cancelled, J B Enterprise.
+1207162461773078771
+
+
+
+Hi {#var#}, this is shopperz india! Your order {#var#} has been confirmed,J B Enterprise. 
+1207162461761247278
+
+
+http://Mobizz.hginfosys.co.in/sendsms.jsp?user=Mousuf&password=fb0e322e2dXX&senderid=SHPIND&mobiles=+919904042257&sms=OTP for register account in Shopperz India is 5525, J B Enterprise &tempid=1207162503338203706
+
+ 
+
+
+

@@ -1,0 +1,45 @@
+
+
+
+
+Customer Address Add/Name like Customer Master
+Address Load Dropdown
+Package type load
+Local Shipment 2nd Page
+
+
+
+
+
+
+
+
+
+Sender
+Editt Addess  == left
+Customerkey > 0 Add Button
+
+Receiver
+Editt Addess  == left
+Customerkey > 0 Add Button
+
+cinvoicee  == None
+
+if parcel==Yes Then  Upload/Add Invoice
+
+other Invoice Palletts
+itemdescription1 (2 times)
+
+LEFT
+Load Invopice Grid
+Upload 2 Files
+
+
+Faisal Change
+
+
+EmployeeName Fill in Day GOne/Day End
+
+ StateName
+
+CountryName

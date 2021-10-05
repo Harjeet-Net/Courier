@@ -1,0 +1,16 @@
+LocationKey
+
+
+DELETE  MEORYCARD
+
+
+update tblTranItemStock set Stock=0 where TranpartyID =3 and ItemID=4171
+update tblTranItemStock set Stock=0 where TranpartyID =3 and ItemID=4172
+update tblTranItemStock set Stock=0 where TranpartyID =3 and ItemID=4173
+
+
+update tblTranItemStock set Stock=40 where TranpartyID =3 and ItemID=4177
+update tblTranItemStock set Stock=41 where TranpartyID =3 and ItemID=4178
+
+update tblTranItemStock set Stock=38 where TranpartyID =3 and ItemID=4179
+

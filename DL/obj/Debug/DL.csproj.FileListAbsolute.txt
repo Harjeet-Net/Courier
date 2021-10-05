@@ -1,0 +1,66 @@
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\DL.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\DL.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\DL.pdb
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Antlr3.Runtime.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\CommonEntity.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Encryption.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Newtonsoft.Json.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\System.Web.Optimization.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\WebGrease.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\CommonEntity.pdb
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\CommonEntity.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Antlr3.Runtime.pdb
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\Newtonsoft.Json.xml
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Debug\System.Web.Optimization.xml
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Debug\DL.csprojAssemblyReference.cache
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Debug\DL.csproj.CopyComplete
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Debug\DL.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Debug\DL.pdb
+D:\Johar\Courier\DL\bin\Debug\DL.dll.config
+D:\Johar\Courier\DL\bin\Debug\DL.dll
+D:\Johar\Courier\DL\bin\Debug\DL.pdb
+D:\Johar\Courier\DL\bin\Debug\CommonEntity.dll
+D:\Johar\Courier\DL\bin\Debug\CommonEntity.pdb
+D:\Johar\Courier\DL\bin\Debug\CommonEntity.dll.config
+D:\Johar\Courier\DL\bin\Debug\Antlr3.Runtime.pdb
+D:\Johar\Courier\DL\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\Johar\Courier\DL\bin\Debug\Newtonsoft.Json.xml
+D:\Johar\Courier\DL\bin\Debug\System.Web.Optimization.xml
+D:\Johar\Courier\DL\obj\Debug\DL.csprojAssemblyReference.cache
+D:\Johar\Courier\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\Johar\Courier\DL\obj\Debug\DL.csproj.CopyComplete
+D:\Johar\Courier\DL\obj\Debug\DL.dll
+D:\Johar\Courier\DL\obj\Debug\DL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Debug\DL.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Debug\DL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Debug\DL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Debug\CommonEntity.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Debug\Newtonsoft.Json.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Debug\CommonEntity.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Debug\CommonEntity.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Debug\DL.csproj.CopyComplete
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Debug\DL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Debug\DL.pdb
+E:\CourierASPGit\CourierASPGit\DL\bin\Debug\DL.dll.config
+E:\CourierASPGit\CourierASPGit\DL\bin\Debug\DL.dll
+E:\CourierASPGit\CourierASPGit\DL\bin\Debug\DL.pdb
+E:\CourierASPGit\CourierASPGit\DL\bin\Debug\CommonEntity.dll
+E:\CourierASPGit\CourierASPGit\DL\bin\Debug\CommonEntity.pdb
+E:\CourierASPGit\CourierASPGit\DL\bin\Debug\CommonEntity.dll.config
+E:\CourierASPGit\CourierASPGit\DL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\CourierASPGit\CourierASPGit\DL\bin\Debug\Newtonsoft.Json.xml
+E:\CourierASPGit\CourierASPGit\DL\obj\Debug\DL.csprojAssemblyReference.cache
+E:\CourierASPGit\CourierASPGit\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+E:\CourierASPGit\CourierASPGit\DL\obj\Debug\DL.csproj.CopyComplete
+E:\CourierASPGit\CourierASPGit\DL\obj\Debug\DL.dll
+E:\CourierASPGit\CourierASPGit\DL\obj\Debug\DL.pdb

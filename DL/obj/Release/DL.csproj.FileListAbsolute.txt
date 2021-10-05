@@ -1,0 +1,56 @@
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\DL.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\DL.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\DL.pdb
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Antlr3.Runtime.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\CommonEntity.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Encryption.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Microsoft.AspNet.FriendlyUrls.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Newtonsoft.Json.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\System.Web.Optimization.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\WebGrease.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\CommonEntity.pdb
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\CommonEntity.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Antlr3.Runtime.pdb
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Microsoft.AspNet.FriendlyUrls.xml
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\Newtonsoft.Json.xml
+D:\TFS Projects\Isolation Patient Food Management System\DL\bin\Release\System.Web.Optimization.xml
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Release\DL.csprojAssemblyReference.cache
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Release\DL.csproj.CopyComplete
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Release\DL.dll
+D:\TFS Projects\Isolation Patient Food Management System\DL\obj\Release\DL.pdb
+D:\Johar\Courier\DL\bin\Release\DL.dll.config
+D:\Johar\Courier\DL\bin\Release\DL.dll
+D:\Johar\Courier\DL\bin\Release\DL.pdb
+D:\Johar\Courier\DL\bin\Release\CommonEntity.dll
+D:\Johar\Courier\DL\bin\Release\CommonEntity.pdb
+D:\Johar\Courier\DL\bin\Release\CommonEntity.dll.config
+D:\Johar\Courier\DL\bin\Release\Antlr3.Runtime.pdb
+D:\Johar\Courier\DL\bin\Release\Microsoft.AspNet.FriendlyUrls.xml
+D:\Johar\Courier\DL\bin\Release\Newtonsoft.Json.xml
+D:\Johar\Courier\DL\bin\Release\System.Web.Optimization.xml
+D:\Johar\Courier\DL\obj\Release\DL.csprojAssemblyReference.cache
+D:\Johar\Courier\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+D:\Johar\Courier\DL\obj\Release\DL.csproj.CopyComplete
+D:\Johar\Courier\DL\obj\Release\DL.dll
+D:\Johar\Courier\DL\obj\Release\DL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\DL.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\DL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\DL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\CommonEntity.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\Newtonsoft.Json.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\CommonEntity.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\CommonEntity.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\Antlr3.Runtime.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\Microsoft.AspNet.FriendlyUrls.xml
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\bin\Release\System.Web.Optimization.xml
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Release\DL.csproj.AssemblyReference.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Release\DL.csproj.CopyComplete
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Release\DL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\DL\obj\Release\DL.pdb

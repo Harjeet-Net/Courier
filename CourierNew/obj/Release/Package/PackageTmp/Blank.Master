@@ -1,0 +1,112 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Blank.master.cs" Inherits="CourierNew.Blank" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Wizard 1 | Keenthemes</title>
+    <meta name="description" content="Wizard examples" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link rel="canonical" href="https://keenthemes.com/metronic" />
+    <!--begin::Fonts-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
+    <!--end::Fonts-->
+    <!--begin::Page Custom Styles(used by this page)-->
+
+    <!--end::Page Custom Styles-->
+    <!--begin::Global Theme Styles(used by all pages)-->
+    <link href="/assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/custom/prismjs/prismjs.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/style.bundle.min.css" rel="stylesheet" />
+
+    <!--end::Global Theme Styles-->
+    <!--begin::Layout Themes(used by all pages)-->
+    <!--end::Layout Themes-->
+    <!--begin::Global Theme Bundle(used by all pages)-->
+    <script src="/assets/plugins/global/plugins.bundle.js"></script>
+    <script src="/assets/plugins/custom/prismjs/prismjs.bundle.js"></script>
+    <script src="/assets/js/scripts.bundle.js"></script>
+    <link rel="shortcut icon" href="/assets/media/logos/favicon.ico" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src="../Pages/Js/CommonEntry.js"></script>
+        <link href="/assets/css/BootExtended.css" rel="stylesheet" />
+    <style>
+        body {
+            background:#ffff;
+        }
+    </style>
+   
+</head>
+
+<!--begin::Body-->
+<body id="kt_body" class="header-mobile-fixed subheader-enabled aside-enabled aside-fixed aside-secondary-enabled page-loading">
+   <div class="container-sm-3">
+ <form id="kt_form" runat="server" autocomplete="off">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <asp:UpdatePanel ID="UpdatePanel1" runat="server" RenderMode="Block">
+            <ContentTemplate>
+                <asp:ContentPlaceHolder ID="CP1" runat="server">
+                </asp:ContentPlaceHolder>
+                <asp:TextBox ID="txtKey" Text="0" CssClass="hidden" runat="server"></asp:TextBox>
+
+            </ContentTemplate>
+        </asp:UpdatePanel>
+        <asp:TextBox ID="txtUniversalDate" CssClass="hidden" ClientIDMode="Static" runat="server"></asp:TextBox>
+        <asp:TextBox runat="server" ID="txtCompany" ClientIDMode="Static" Text="0" CssClass="hidden companyid"></asp:TextBox>
+
+        <div id="ModelPopupDialog" class="modal fade ModelPopupDialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+            <div class=" modal-dialog MainModel" id="MainModel" style="overflow: hidden; width: 98%;">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title homeframetitle">Please wait..</h5>
+
+                    
+                            <button class="close" onclick="Bind();" data-dismiss="modal" aria-hidden="true"><small>Press Esc to close form</small>  ×</button>
+
+
+                    </div>
+                    <div class="modal-body" style="overflow: hidden; width: 100%">
+                        <iframe style="width: 100%; border: none" id="frameShortcut" class="frameShortcut"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--begin::Modal-->
+        <div id="kt_datatable_modal_2" class="modal fade kt_datatable_modal_2" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-xl" style="overflow: hidden; width: 98%;">
+                <div class="modal-content" style="min-height: 590px;">
+                    <div class="modal-header py-5">
+                        <h5 class="modal-title"></h5>
+
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <i aria-hidden="true" class="ki ki-close"></i>
+                        </button>
+                    </div>
+                    <div class="modal-body" style="overflow: hidden; width: 100%">
+                        <iframe style="width: 100%; border: none" id="1frameShortcut" class="frameShortcut"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--end::Modal-->
+    </form>
+   </div>
+   
+
+
+
+
+
+    <!--end::Demo Panel-->
+    <script>var HOST_URL = "https://preview.keenthemes.com/metronic/theme/html/tools/preview";</script>
+    <!--begin::Global Config(global config for global JS scripts)-->
+    <script>var KTAppSettings = { "breakpoints": { "sm": 576, "md": 768, "lg": 992, "xl": 1200, "xxl": 1200 }, "colors": { "theme": { "base": { "white": "#ffffff", "primary": "#1BC5BD", "secondary": "#E5EAEE", "success": "#1BC5BD", "info": "#6993FF", "warning": "#FFA800", "danger": "#F64E60", "light": "#F3F6F9", "dark": "#212121" }, "light": { "white": "#ffffff", "primary": "#1BC5BD", "secondary": "#ECF0F3", "success": "#C9F7F5", "info": "#E1E9FF", "warning": "#FFF4DE", "danger": "#FFE2E5", "light": "#F3F6F9", "dark": "#D6D6E0" }, "inverse": { "white": "#ffffff", "primary": "#ffffff", "secondary": "#212121", "success": "#ffffff", "info": "#ffffff", "warning": "#ffffff", "danger": "#ffffff", "light": "#464E5F", "dark": "#ffffff" } }, "gray": { "gray-100": "#F3F6F9", "gray-200": "#ECF0F3", "gray-300": "#E5EAEE", "gray-400": "#D6D6E0", "gray-500": "#B5B5C3", "gray-600": "#80808F", "gray-700": "#464E5F", "gray-800": "#1B283F", "gray-900": "#212121" } }, "font-family": "Poppins" };</script>
+        <script src="../Scripts/general.js"></script>
+     <script src="../Scripts/jquery.maskedinput.js"></script>
+        <script src="../Scripts/InputFormValidation.js"></script>
+</body>
+<!--end::Body-->
+</html>

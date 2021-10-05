@@ -1,0 +1,70 @@
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\BL.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\BL.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\BL.pdb
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\CommonEntity.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\DL.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\Newtonsoft.Json.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\System.Net.Http.Formatting.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\Encryption.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\CommonEntity.pdb
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\CommonEntity.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\DL.pdb
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\DL.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Release\Newtonsoft.Json.xml
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Release\BL.csprojAssemblyReference.cache
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Release\BL.csproj.CopyComplete
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Release\BL.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Release\BL.pdb
+D:\Johar\Courier\BL\bin\Release\BL.dll.config
+D:\Johar\Courier\BL\bin\Release\BL.dll
+D:\Johar\Courier\BL\bin\Release\BL.pdb
+D:\Johar\Courier\BL\bin\Release\CommonEntity.dll
+D:\Johar\Courier\BL\bin\Release\DL.dll
+D:\Johar\Courier\BL\bin\Release\Newtonsoft.Json.dll
+D:\Johar\Courier\BL\bin\Release\System.Web.Mvc.dll
+D:\Johar\Courier\BL\bin\Release\Encryption.dll
+D:\Johar\Courier\BL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Johar\Courier\BL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Johar\Courier\BL\bin\Release\CommonEntity.pdb
+D:\Johar\Courier\BL\bin\Release\CommonEntity.dll.config
+D:\Johar\Courier\BL\bin\Release\DL.pdb
+D:\Johar\Courier\BL\bin\Release\DL.dll.config
+D:\Johar\Courier\BL\obj\Release\BL.csprojAssemblyReference.cache
+D:\Johar\Courier\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+D:\Johar\Courier\BL\obj\Release\BL.csproj.CopyComplete
+D:\Johar\Courier\BL\obj\Release\BL.dll
+D:\Johar\Courier\BL\obj\Release\BL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\BL.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\BL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\BL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\CommonEntity.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\DL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Newtonsoft.Json.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\System.Net.Http.Formatting.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\System.Web.Mvc.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Encryption.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\CommonEntity.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\CommonEntity.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\DL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\DL.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\System.Net.Http.Formatting.xml
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Release\BL.csproj.AssemblyReference.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Release\BL.csproj.CopyComplete
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Release\BL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Release\BL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Telerik.Web.Design.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Telerik.Web.Device.Detection.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Telerik.Web.UI.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Telerik.Web.UI.Skins.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\EnvDTE.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\stdole.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Telerik.Web.Device.Detection.xml
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Release\Telerik.Web.UI.xml

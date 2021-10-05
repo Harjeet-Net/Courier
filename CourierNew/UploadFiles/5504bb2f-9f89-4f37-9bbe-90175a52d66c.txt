@@ -1,0 +1,22 @@
+((LinkButton)this.Master.FindControl("lnkCategory")).CssClass = "nav-link active";
+
+
+BACKUP DATABASE POS20 TO DISK='C:\DAILY_BACKUP_TAKE\POS20_170821.bak'
+BACKUP DATABASE MonsterRepair2019 TO DISK='C:\DAILY_BACKUP_TAKE\MonsterRepair2019_170821.bak'
+BACKUP DATABASE COVIDTASK TO DISK='C:\DAILY_BACKUP_TAKE\COVIDTASK_170821.bak'
+
+1. Backup The Databse  You Want TO Update
+
+
+2. select * from tblBranchMaster
+
+select * from tblTranItemStock where TranPartyID=1
+
+3. update tblTranItemStock set Stock=0 where TranPartyID=1
+
+4. 						BEGIN Tran
+
+							update tblTranItemStock set Stock=MC09.TOTAL 
+							from MC09 where ItemKey=ItemID AND TranPartyID= 9
+
+						----COMMIT TRAN

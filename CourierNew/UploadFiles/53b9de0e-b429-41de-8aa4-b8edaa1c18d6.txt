@@ -1,0 +1,24 @@
+DECLARE @table as table
+(
+	PK INT
+	,RowINdex INT
+)
+insert into @table 
+select TranItemID ,ROW_NUMBER()OVER(PARTITION BY ItemID     ORDER BY Itemid) from tblTranItemStock
+begin tran
+delete from tblTranItemStock where TranItemID in(
+select  pk from @table  where RowINdex >1
+)
+
+
+commit
+
+ALTER TABLE tblQuotation ADD DiscPer DECIMAL(12,2)
+ALTER TABLE tblSales ADD DiscPer DECIMAL(12,2)
+ ALTER TABLE [tblStockTransferHead]  ADD OrderID INT
+ALTER TABLE tblItemMaster ADD AttributeKey INT
+https://www.wrappixel.com/templates/materialpro/
+
+
+
+ Data Source=DESKTOP-9MI95MN\SQLEXPRESS2008R2;Initial Catalog=HOME;User ID=sa;Password=sa

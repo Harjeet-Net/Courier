@@ -1,0 +1,96 @@
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\BL.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\BL.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\BL.pdb
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\CommonEntity.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\DL.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\Newtonsoft.Json.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\System.Net.Http.Formatting.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\Encryption.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\CommonEntity.pdb
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\CommonEntity.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\DL.pdb
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\DL.dll.config
+D:\TFS Projects\Isolation Patient Food Management System\BL\bin\Debug\Newtonsoft.Json.xml
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Debug\BL.csproj.CopyComplete
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Debug\BL.dll
+D:\TFS Projects\Isolation Patient Food Management System\BL\obj\Debug\BL.pdb
+D:\Johar\Courier\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\Johar\Courier\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Johar\Courier\BL\obj\Debug\BL.dll
+D:\Johar\Courier\BL\obj\Debug\BL.pdb
+D:\Johar\Courier\BL\bin\Debug\BL.dll.config
+D:\Johar\Courier\BL\bin\Debug\BL.dll
+D:\Johar\Courier\BL\bin\Debug\BL.pdb
+D:\Johar\Courier\BL\bin\Debug\CommonEntity.dll
+D:\Johar\Courier\BL\bin\Debug\DL.dll
+D:\Johar\Courier\BL\bin\Debug\Encryption.dll
+D:\Johar\Courier\BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Johar\Courier\BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Johar\Courier\BL\bin\Debug\CommonEntity.pdb
+D:\Johar\Courier\BL\bin\Debug\CommonEntity.dll.config
+D:\Johar\Courier\BL\bin\Debug\DL.pdb
+D:\Johar\Courier\BL\bin\Debug\DL.dll.config
+D:\Johar\Courier\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Johar\Courier\BL\bin\Debug\Newtonsoft.Json.dll
+D:\Johar\Courier\BL\bin\Debug\System.Web.Mvc.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\BL.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\BL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\BL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\CommonEntity.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\DL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Newtonsoft.Json.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\System.Net.Http.Formatting.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\System.Web.Mvc.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Telerik.Web.Design.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Telerik.Web.Device.Detection.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Telerik.Web.UI.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Telerik.Web.UI.Skins.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Encryption.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\EnvDTE.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\stdole.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\CommonEntity.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\CommonEntity.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\DL.pdb
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\DL.dll.config
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\System.Net.Http.Formatting.xml
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Debug\BL.csproj.CopyComplete
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Debug\BL.dll
+E:\DESourceCode\BitBucketSC\1SourceCode\CourrierSourceCode\CourierASPGit\BL\obj\Debug\BL.pdb
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\BL.dll.config
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\BL.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\BL.pdb
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\CommonEntity.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\DL.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Newtonsoft.Json.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\System.Web.Mvc.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Telerik.Web.Design.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Telerik.Web.Device.Detection.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Telerik.Web.UI.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Telerik.Web.UI.Skins.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Encryption.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\EnvDTE.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\stdole.dll
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\CommonEntity.pdb
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\CommonEntity.dll.config
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\DL.pdb
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\DL.dll.config
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\System.Net.Http.Formatting.xml
+E:\CourierASPGit\CourierASPGit\BL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\CourierASPGit\CourierASPGit\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\CourierASPGit\CourierASPGit\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\CourierASPGit\CourierASPGit\BL\obj\Debug\BL.csproj.CopyComplete
+E:\CourierASPGit\CourierASPGit\BL\obj\Debug\BL.dll
+E:\CourierASPGit\CourierASPGit\BL\obj\Debug\BL.pdb
