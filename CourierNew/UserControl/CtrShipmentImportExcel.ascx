@@ -2,6 +2,15 @@
 
 <%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
 
+<script src="../UserControl/JS/ShipmentExcel.js?ver=2"></script>
+<style>
+    #TableGrid {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+        margin-top:5px;
+    }
+</style>
 <section class="container">
     <!-- Default box -->
     <!--begin::Card-->
@@ -22,7 +31,8 @@
                         <asp:FileUpload ID="FileUpload1" runat="server" CssClass="form-control p-1" ToolTip="Please select only *.xls or *.xlsx" />
                     </div>
                     <div class=" col-md-3" style="margin-top: 25px;">
-                        <asp:Button ID="btnUploadFile" runat="server" OnClick="btnUploadFile_Click" Text="Import MS Excel" CssClass="btn btn-primary" />
+                        <%--<asp:Button ID="btnUploadFile" runat="server" OnClick="btnUploadFile_Click" Text="Import MS-Excel" CssClass="btn btn-primary" />--%>
+                        <asp:Button ID="btnUploadFiles" runat="server" Text="Import MS-Excel" CssClass="btn btn-primary" />
                     </div>
                 </div>
                 <div class="row">
@@ -34,9 +44,9 @@
             </div>
         </div>
         <!-- /.card -->
-        <div style="margin-top: 10px;">
+        <%--<div style="margin-top: 10px;">
             <telerik:RadGrid ID="RadGridDetail" runat="server" Width="100%" RenderMode="Lightweight"
-                AllowFilteringByColumn="true" AllowSorting="False" AutoGenerateColumns="False"
+                AllowFilteringByColumn="true" AllowSorting="true" AutoGenerateColumns="False"
                 GridLines="None" AllowPaging="false" PageSize="200" OnNeedDataSource="RadGridDetail_NeedDataSource"
                 OnPreRender="RadGridDetail_PreRender">
                 <GroupingSettings CaseSensitive="false" />
@@ -70,7 +80,7 @@
                             <ItemStyle HorizontalAlign="Center" Width="20px" />
                         </telerik:GridTemplateColumn>
 
-                        <telerik:GridBoundColumn DataField="AWBDate" AllowFiltering="true" CurrentFilterFunction="Contains"
+                        <telerik:GridBoundColumn DataField="AWBDate" AllowFiltering="true" CurrentFilterFunction="Contains" AllowSorting="true" SortExpression="AWBDate"
                             ShowFilterIcon="true" HeaderText="Date" AutoPostBackOnFilter="true" DataFormatString="{0: dd/MM/yyyy}">
                             <HeaderStyle HorizontalAlign="left" Width="30px" Font-Size="14px" />
                             <ItemStyle HorizontalAlign="left" Width="30px" />
@@ -158,12 +168,41 @@
                 </MasterTableView>                
                 <ClientSettings EnableRowHoverStyle="false">
                     <Selecting AllowRowSelect="false" EnableDragToSelectRows="false" />
-                    <%--<Scrolling AllowScroll="true" UseStaticHeaders="true" ScrollHeight="" />--%>
+                    <Scrolling AllowScroll="true" UseStaticHeaders="true" ScrollHeight="" />
                 </ClientSettings>
             </telerik:RadGrid>
+        </div>--%>
+
+        <div>
+            <%-- Contain Load  Here --%>
+            <div id="dvGrid" style="zoom: 0.9;margin-top: 10px;"></div>
         </div>
 
     </div>
 </section>
 
+<script>
+    $("#btnUpload").click(function (evt) {
+        var fileUpload = $("#FileUpload1").get(0);
+        var files = fileUpload.files;
 
+        var data = new FormData();
+        for (var i = 0; i < files.length; i++) {
+            data.append(files[i].name, files[i]);
+        }
+
+        $.ajax({
+            url: "FileUploadHandler.ashx",
+            type: "POST",
+            data: data,
+            contentType: false,
+            processData: false,
+            success: function (result) { alert(result); },
+            error: function (err) {
+                alert(err.statusText)
+            }
+        });
+
+        evt.preventDefault();
+    }); 
+</script>

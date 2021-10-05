@@ -36,7 +36,7 @@ namespace CourierNew.UserControl
                                 SetAttributeShipmentImportExcel(dr);
                             }
 
-                            RadGridDetail.Rebind();
+                            //RadGridDetail.Rebind();
                         }
                     }
                 }
@@ -78,83 +78,83 @@ namespace CourierNew.UserControl
             catch (Exception ex) { string msg = ex.Message; }
         }
 
-        protected void RadGridDetail_NeedDataSource(object sender, GridNeedDataSourceEventArgs e)
-        {
-            try
-            {
-                RadGridDetail.DataSource = new string[0];
-                ClsAirWayBillImportExcelMaster objEntity = new ClsAirWayBillImportExcelMaster();
-                DataTable dt = objEntity.GetAirWayBillTempByUserID();
-                if (dt.Rows.Count > 0)
-                {
-                    RadGridDetail.DataSource = dt;
-                }
-            }
-            catch (Exception ex)
-            {
-                string msg = ex.Message;
-            }
-        }
+        //protected void RadGridDetail_NeedDataSource(object sender, GridNeedDataSourceEventArgs e)
+        //{
+        //    try
+        //    {
+        //        RadGridDetail.DataSource = new string[0];
+        //        ClsAirWayBillImportExcelMaster objEntity = new ClsAirWayBillImportExcelMaster();
+        //        DataTable dt = objEntity.GetAirWayBillTempByUserID();
+        //        if (dt.Rows.Count > 0)
+        //        {
+        //            RadGridDetail.DataSource = dt;
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        string msg = ex.Message;
+        //    }
+        //}
 
-        protected void RadGridDetail_PreRender(object sender, EventArgs e)
-        {
-            foreach (GridDataItem item in RadGridDetail.Items)
-            {
-                if (ShipmentTempID.Contains("," + Convert.ToInt32(item.GetDataKeyValue("TempID")).ToString() + ","))
-                {
-                    ((CheckBox)item.FindControl("ckboxShipmentTemp")).Checked = true;
-                }
-            }
-        }
+        //protected void RadGridDetail_PreRender(object sender, EventArgs e)
+        //{
+        //    foreach (GridDataItem item in RadGridDetail.Items)
+        //    {
+        //        if (ShipmentTempID.Contains("," + Convert.ToInt32(item.GetDataKeyValue("TempID")).ToString() + ","))
+        //        {
+        //            ((CheckBox)item.FindControl("ckboxShipmentTemp")).Checked = true;
+        //        }
+        //    }
+        //}
 
-        protected void ckboxShipmentTempSelectAll_CheckedChanged(object sender, EventArgs e)
-        {
-            CheckBox ckboxSelectAll = (CheckBox)sender;
+        //protected void ckboxShipmentTempSelectAll_CheckedChanged(object sender, EventArgs e)
+        //{
+        //    CheckBox ckboxSelectAll = (CheckBox)sender;
 
-            if (ckboxSelectAll.Checked == true)
-            {
-                foreach (GridDataItem gvr in RadGridDetail.Items)
-                {
-                    CheckBox ckboxShipmentTemp = (CheckBox)gvr.FindControl("ckboxShipmentTemp");
-                    HiddenField hfTempID = (HiddenField)gvr.FindControl("hfTempID");
+        //    if (ckboxSelectAll.Checked == true)
+        //    {
+        //        foreach (GridDataItem gvr in RadGridDetail.Items)
+        //        {
+        //            CheckBox ckboxShipmentTemp = (CheckBox)gvr.FindControl("ckboxShipmentTemp");
+        //            HiddenField hfTempID = (HiddenField)gvr.FindControl("hfTempID");
 
-                    if (ckboxShipmentTemp != null)
-                    {
-                        ckboxShipmentTemp.Checked = true;
-                        ShipmentTempID += hfTempID.Value + ",";
-                    }
-                }
-            }
-            else
-            {
-                foreach (GridDataItem gvr in RadGridDetail.Items)
-                {
-                    CheckBox ckboxShipmentTemp = (CheckBox)gvr.FindControl("ckboxShipmentTemp");
-                    if (ckboxShipmentTemp != null)
-                    {
-                        ckboxShipmentTemp.Checked = false;
-                    }
-                }
-                string str = Convert.ToString(ViewState["ShipmentTempID"]);
-                ViewState.Remove("ShipmentTempID");
-            }
+        //            if (ckboxShipmentTemp != null)
+        //            {
+        //                ckboxShipmentTemp.Checked = true;
+        //                ShipmentTempID += hfTempID.Value + ",";
+        //            }
+        //        }
+        //    }
+        //    else
+        //    {
+        //        foreach (GridDataItem gvr in RadGridDetail.Items)
+        //        {
+        //            CheckBox ckboxShipmentTemp = (CheckBox)gvr.FindControl("ckboxShipmentTemp");
+        //            if (ckboxShipmentTemp != null)
+        //            {
+        //                ckboxShipmentTemp.Checked = false;
+        //            }
+        //        }
+        //        string str = Convert.ToString(ViewState["ShipmentTempID"]);
+        //        ViewState.Remove("ShipmentTempID");
+        //    }
 
-        }
+        //}
 
-        protected void ckboxShipmentTemp_CheckedChanged(object sender, EventArgs e)
-        {
-            CheckBox ckboxShipmentTemp = (CheckBox)sender;
-            GridDataItem item = (GridDataItem)ckboxShipmentTemp.NamingContainer;
-            int ID = Convert.ToInt32(item.GetDataKeyValue("TempID"));
-            if (ckboxShipmentTemp.Checked)
-            {
-                ShipmentTempID += ID.ToString() + ",";
-            }
-            else
-            {
-                ShipmentTempID = ShipmentTempID.Replace(ID.ToString() + ",", "");
-            }
-        }
+        //protected void ckboxShipmentTemp_CheckedChanged(object sender, EventArgs e)
+        //{
+        //    CheckBox ckboxShipmentTemp = (CheckBox)sender;
+        //    GridDataItem item = (GridDataItem)ckboxShipmentTemp.NamingContainer;
+        //    int ID = Convert.ToInt32(item.GetDataKeyValue("TempID"));
+        //    if (ckboxShipmentTemp.Checked)
+        //    {
+        //        ShipmentTempID += ID.ToString() + ",";
+        //    }
+        //    else
+        //    {
+        //        ShipmentTempID = ShipmentTempID.Replace(ID.ToString() + ",", "");
+        //    }
+        //}
 
         public string ShipmentTempID
         {

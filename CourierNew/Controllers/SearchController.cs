@@ -439,8 +439,6 @@ namespace UI.Controllers
             {
 
                 objGet.AirwayBillKey = iAirwayBillKey;
-
-
                 var obj = objGet.SearchAirWayMain2Packing();
 
                 if (obj == null)
@@ -466,6 +464,42 @@ namespace UI.Controllers
             }
 
         }
+
+        [Route("api/Search/GetAirWayBillImportList")]
+        //GetAirWayBillImportList
+        [HttpGet]
+        [ActionName("GetAirWayBillImportList")]
+        public List<ClsAirWayBillImportExcel> GetAirWayBillImportList()
+        {
+            ClsAirWayBillImportExcelMaster objEntity = new ClsAirWayBillImportExcelMaster();
+            try
+            {
+                var obj = objEntity.GetAirWayBillImportList();
+
+                if (obj == null)
+                {
+                    var resp = new HttpResponseMessage(HttpStatusCode.NotFound)
+                    {
+                        Content = new StringContent("Unable to fetch content."),
+                        ReasonPhrase = "Server Error in GetAirWayBillImportList"
+                    };
+                    throw new HttpResponseException(resp);
+                }
+                return obj;
+            }
+            catch (Exception ex)
+            {
+
+                var resp = new HttpResponseMessage(HttpStatusCode.NotFound)
+                {
+                    Content = new StringContent(ex.Message),
+                    ReasonPhrase = "Server Error in GetAirWayBillImportList"
+                };
+                throw new HttpResponseException(resp);
+            }
+
+        }
+
 
         [Route("api/Search/Client_SearchInvoiceDetail")]
         //SearchInvoiceDetails

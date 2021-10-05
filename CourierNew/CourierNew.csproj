@@ -2440,6 +2440,7 @@
     <Content Include="UserControl\JS\CustomerAddressSearch.js" />
     <Content Include="UserControl\JS\CustomerMasterSearch.js" />
     <Content Include="UserControl\JS\RowDataImportSearch.js" />
+    <Content Include="UserControl\JS\ShipmentExcel.js" />
     <Content Include="UserControl\JS\ShipmentSearch.js" />
     <Content Include="UserControl\JS\TemplateMasterSearch.js" />
     <Content Include="UserControl\JS\CategoryMasterSearch.js" />
@@ -2925,6 +2926,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Reports\AwbReport.rdlc" />
     <EmbeddedResource Include="Reports\Report_AwbAirWayBill.rdlc" />
   </ItemGroup>
